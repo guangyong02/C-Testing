@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Oldstyle\Oldstyle\bin\Debug\net6.0\Oldstyle.exe
+C:\Users\User\source\repos\Oldstyle\Oldstyle\bin\Debug\net6.0\Oldstyle.deps.json
+C:\Users\User\source\repos\Oldstyle\Oldstyle\bin\Debug\net6.0\Oldstyle.runtimeconfig.json
+C:\Users\User\source\repos\Oldstyle\Oldstyle\bin\Debug\net6.0\Oldstyle.dll
+C:\Users\User\source\repos\Oldstyle\Oldstyle\bin\Debug\net6.0\Oldstyle.pdb
+C:\Users\User\source\repos\Oldstyle\Oldstyle\obj\Debug\net6.0\Oldstyle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Oldstyle\Oldstyle\obj\Debug\net6.0\Oldstyle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Oldstyle\Oldstyle\obj\Debug\net6.0\Oldstyle.AssemblyInfo.cs
+C:\Users\User\source\repos\Oldstyle\Oldstyle\obj\Debug\net6.0\Oldstyle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Oldstyle\Oldstyle\obj\Debug\net6.0\Oldstyle.dll
+C:\Users\User\source\repos\Oldstyle\Oldstyle\obj\Debug\net6.0\refint\Oldstyle.dll
+C:\Users\User\source\repos\Oldstyle\Oldstyle\obj\Debug\net6.0\Oldstyle.pdb
+C:\Users\User\source\repos\Oldstyle\Oldstyle\obj\Debug\net6.0\Oldstyle.genruntimeconfig.cache
+C:\Users\User\source\repos\Oldstyle\Oldstyle\obj\Debug\net6.0\ref\Oldstyle.dll

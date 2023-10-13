@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "diFwQZbkIo/W0AQqhiVuskEYV7dwXK0SJ2Ngjclqwvuw9M6rw2M0Xboyl97ZVLifunHf2ENDgdcmdhk+AGaghQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net6.0-ios"
+    }
+  ]
+}
