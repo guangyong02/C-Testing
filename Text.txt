@@ -1,0 +1,4 @@
+cd C:\Users\User\Desktop\C#\C-Testing
+git add *
+git commit -m "upadte again"
+git push

@@ -2,14 +2,45 @@
 {
     internal class Program
     {
-        static int highScore=0;
-        static string highScorePlayer;
+        //static int highScore=0;
+        //static string highScorePlayer;
         static void Main(string[] args)
         {
+            int temperature;
+            if (!int.TryParse(Console.ReadLine(),out temperature)){
+                Console.WriteLine("Not A Valid Temperature");
+            }
+            else
+            {
+                Console.WriteLine(temperature<=15? "It is too Cold here":
+                    temperature>=16&&temperature<=28?"it is ok":"It is hot here");
+            }
 
-            checkHighScore();
-            Console.WriteLine(highScore);
-            Console.WriteLine(highScorePlayer);
+
+
+
+
+
+            //int temperature = 50;
+            //string stateOfMatter;
+            //stateOfMatter = temperature < 10 ? "too cold" : "hot";
+            //Console.WriteLine(stateOfMatter);
+            //temperature += -21;
+            //stateOfMatter = temperature < 10 ? "too cold" :temperature <30 ? "warm": "hot";
+            //Console.WriteLine(stateOfMatter);
+
+
+
+
+
+
+
+
+
+
+            //checkHighScore();
+            //Console.WriteLine(highScore);
+            //Console.WriteLine(highScorePlayer);
 
             //int age; 
             //int.TryParse(Console.ReadLine(),out age);
@@ -133,19 +164,19 @@
             //}
         }
 
-        public static void checkHighScore()
-        {
-            int score;
-            Console.WriteLine("Please enter your score:");
-            string input = Console.ReadLine();
-            int.TryParse(input,out score);
-            if (score > highScore)
-            {
-                highScore = score;
-                Console.WriteLine("Please enter your Name:");
-                highScorePlayer = Console.ReadLine();
-            }
-            
-        }
+        //public static void checkHighScore()
+        //{
+        //    int score;
+        //    Console.WriteLine("Please enter your score:");
+        //    string input = Console.ReadLine();
+        //    int.TryParse(input,out score);
+        //    if (score > highScore)
+        //    {
+        //        highScore = score;
+        //        Console.WriteLine("Please enter your Name:");
+        //        highScorePlayer = Console.ReadLine();
+        //    }
+
+        //}
     }
 }
