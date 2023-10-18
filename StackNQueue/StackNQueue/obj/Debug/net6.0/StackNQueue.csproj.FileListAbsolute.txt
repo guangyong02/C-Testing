@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#\C-Testing\StackNQueue\StackNQueue\bin\Debug\net6.0\StackNQueue.exe
+C:\Users\User\Desktop\C#\C-Testing\StackNQueue\StackNQueue\bin\Debug\net6.0\StackNQueue.deps.json
+C:\Users\User\Desktop\C#\C-Testing\StackNQueue\StackNQueue\bin\Debug\net6.0\StackNQueue.runtimeconfig.json
+C:\Users\User\Desktop\C#\C-Testing\StackNQueue\StackNQueue\bin\Debug\net6.0\StackNQueue.dll
+C:\Users\User\Desktop\C#\C-Testing\StackNQueue\StackNQueue\bin\Debug\net6.0\StackNQueue.pdb
+C:\Users\User\Desktop\C#\C-Testing\StackNQueue\StackNQueue\obj\Debug\net6.0\StackNQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\C-Testing\StackNQueue\StackNQueue\obj\Debug\net6.0\StackNQueue.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\C-Testing\StackNQueue\StackNQueue\obj\Debug\net6.0\StackNQueue.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\C-Testing\StackNQueue\StackNQueue\obj\Debug\net6.0\StackNQueue.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\C-Testing\StackNQueue\StackNQueue\obj\Debug\net6.0\StackNQueue.dll
+C:\Users\User\Desktop\C#\C-Testing\StackNQueue\StackNQueue\obj\Debug\net6.0\refint\StackNQueue.dll
+C:\Users\User\Desktop\C#\C-Testing\StackNQueue\StackNQueue\obj\Debug\net6.0\StackNQueue.pdb
+C:\Users\User\Desktop\C#\C-Testing\StackNQueue\StackNQueue\obj\Debug\net6.0\StackNQueue.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\C-Testing\StackNQueue\StackNQueue\obj\Debug\net6.0\ref\StackNQueue.dll

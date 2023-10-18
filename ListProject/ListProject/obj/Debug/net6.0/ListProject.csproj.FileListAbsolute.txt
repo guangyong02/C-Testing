@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#\C-Testing\ListProject\ListProject\bin\Debug\net6.0\ListProject.exe
+C:\Users\User\Desktop\C#\C-Testing\ListProject\ListProject\bin\Debug\net6.0\ListProject.deps.json
+C:\Users\User\Desktop\C#\C-Testing\ListProject\ListProject\bin\Debug\net6.0\ListProject.runtimeconfig.json
+C:\Users\User\Desktop\C#\C-Testing\ListProject\ListProject\bin\Debug\net6.0\ListProject.dll
+C:\Users\User\Desktop\C#\C-Testing\ListProject\ListProject\bin\Debug\net6.0\ListProject.pdb
+C:\Users\User\Desktop\C#\C-Testing\ListProject\ListProject\obj\Debug\net6.0\ListProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\C-Testing\ListProject\ListProject\obj\Debug\net6.0\ListProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\C-Testing\ListProject\ListProject\obj\Debug\net6.0\ListProject.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\C-Testing\ListProject\ListProject\obj\Debug\net6.0\ListProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\C-Testing\ListProject\ListProject\obj\Debug\net6.0\ListProject.dll
+C:\Users\User\Desktop\C#\C-Testing\ListProject\ListProject\obj\Debug\net6.0\refint\ListProject.dll
+C:\Users\User\Desktop\C#\C-Testing\ListProject\ListProject\obj\Debug\net6.0\ListProject.pdb
+C:\Users\User\Desktop\C#\C-Testing\ListProject\ListProject\obj\Debug\net6.0\ListProject.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\C-Testing\ListProject\ListProject\obj\Debug\net6.0\ref\ListProject.dll

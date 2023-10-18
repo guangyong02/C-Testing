@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#\C-Testing\HashTableProject\HashTableProject\obj\Debug\net6.0\HashTableProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\C-Testing\HashTableProject\HashTableProject\obj\Debug\net6.0\HashTableProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\C-Testing\HashTableProject\HashTableProject\obj\Debug\net6.0\HashTableProject.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\C-Testing\HashTableProject\HashTableProject\obj\Debug\net6.0\HashTableProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\C-Testing\HashTableProject\HashTableProject\bin\Debug\net6.0\HashTableProject.exe
+C:\Users\User\Desktop\C#\C-Testing\HashTableProject\HashTableProject\bin\Debug\net6.0\HashTableProject.deps.json
+C:\Users\User\Desktop\C#\C-Testing\HashTableProject\HashTableProject\bin\Debug\net6.0\HashTableProject.runtimeconfig.json
+C:\Users\User\Desktop\C#\C-Testing\HashTableProject\HashTableProject\bin\Debug\net6.0\HashTableProject.dll
+C:\Users\User\Desktop\C#\C-Testing\HashTableProject\HashTableProject\bin\Debug\net6.0\HashTableProject.pdb
+C:\Users\User\Desktop\C#\C-Testing\HashTableProject\HashTableProject\obj\Debug\net6.0\HashTableProject.dll
+C:\Users\User\Desktop\C#\C-Testing\HashTableProject\HashTableProject\obj\Debug\net6.0\refint\HashTableProject.dll
+C:\Users\User\Desktop\C#\C-Testing\HashTableProject\HashTableProject\obj\Debug\net6.0\HashTableProject.pdb
+C:\Users\User\Desktop\C#\C-Testing\HashTableProject\HashTableProject\obj\Debug\net6.0\HashTableProject.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\C-Testing\HashTableProject\HashTableProject\obj\Debug\net6.0\ref\HashTableProject.dll

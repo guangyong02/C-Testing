@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#\C-Testing\ArrayListProject\ArrayListProject\bin\Debug\net6.0\ArrayListProject.exe
+C:\Users\User\Desktop\C#\C-Testing\ArrayListProject\ArrayListProject\bin\Debug\net6.0\ArrayListProject.deps.json
+C:\Users\User\Desktop\C#\C-Testing\ArrayListProject\ArrayListProject\bin\Debug\net6.0\ArrayListProject.runtimeconfig.json
+C:\Users\User\Desktop\C#\C-Testing\ArrayListProject\ArrayListProject\bin\Debug\net6.0\ArrayListProject.dll
+C:\Users\User\Desktop\C#\C-Testing\ArrayListProject\ArrayListProject\bin\Debug\net6.0\ArrayListProject.pdb
+C:\Users\User\Desktop\C#\C-Testing\ArrayListProject\ArrayListProject\obj\Debug\net6.0\ArrayListProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\C-Testing\ArrayListProject\ArrayListProject\obj\Debug\net6.0\ArrayListProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\C-Testing\ArrayListProject\ArrayListProject\obj\Debug\net6.0\ArrayListProject.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\C-Testing\ArrayListProject\ArrayListProject\obj\Debug\net6.0\ArrayListProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\C-Testing\ArrayListProject\ArrayListProject\obj\Debug\net6.0\ArrayListProject.dll
+C:\Users\User\Desktop\C#\C-Testing\ArrayListProject\ArrayListProject\obj\Debug\net6.0\refint\ArrayListProject.dll
+C:\Users\User\Desktop\C#\C-Testing\ArrayListProject\ArrayListProject\obj\Debug\net6.0\ArrayListProject.pdb
+C:\Users\User\Desktop\C#\C-Testing\ArrayListProject\ArrayListProject\obj\Debug\net6.0\ArrayListProject.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\C-Testing\ArrayListProject\ArrayListProject\obj\Debug\net6.0\ref\ArrayListProject.dll
