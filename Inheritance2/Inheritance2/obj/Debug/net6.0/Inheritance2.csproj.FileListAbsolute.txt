@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#\C-Testing\Inheritance2\Inheritance2\bin\Debug\net6.0\Inheritance2.exe
+C:\Users\User\Desktop\C#\C-Testing\Inheritance2\Inheritance2\bin\Debug\net6.0\Inheritance2.deps.json
+C:\Users\User\Desktop\C#\C-Testing\Inheritance2\Inheritance2\bin\Debug\net6.0\Inheritance2.runtimeconfig.json
+C:\Users\User\Desktop\C#\C-Testing\Inheritance2\Inheritance2\bin\Debug\net6.0\Inheritance2.dll
+C:\Users\User\Desktop\C#\C-Testing\Inheritance2\Inheritance2\bin\Debug\net6.0\Inheritance2.pdb
+C:\Users\User\Desktop\C#\C-Testing\Inheritance2\Inheritance2\obj\Debug\net6.0\Inheritance2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\C-Testing\Inheritance2\Inheritance2\obj\Debug\net6.0\Inheritance2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\C-Testing\Inheritance2\Inheritance2\obj\Debug\net6.0\Inheritance2.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\C-Testing\Inheritance2\Inheritance2\obj\Debug\net6.0\Inheritance2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\C-Testing\Inheritance2\Inheritance2\obj\Debug\net6.0\Inheritance2.dll
+C:\Users\User\Desktop\C#\C-Testing\Inheritance2\Inheritance2\obj\Debug\net6.0\refint\Inheritance2.dll
+C:\Users\User\Desktop\C#\C-Testing\Inheritance2\Inheritance2\obj\Debug\net6.0\Inheritance2.pdb
+C:\Users\User\Desktop\C#\C-Testing\Inheritance2\Inheritance2\obj\Debug\net6.0\Inheritance2.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\C-Testing\Inheritance2\Inheritance2\obj\Debug\net6.0\ref\Inheritance2.dll
