@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#\C-Testing\ReadTextFromFile\ReadTextFromFile\bin\Debug\net6.0\ReadTextFromFile.exe
+C:\Users\User\Desktop\C#\C-Testing\ReadTextFromFile\ReadTextFromFile\bin\Debug\net6.0\ReadTextFromFile.deps.json
+C:\Users\User\Desktop\C#\C-Testing\ReadTextFromFile\ReadTextFromFile\bin\Debug\net6.0\ReadTextFromFile.runtimeconfig.json
+C:\Users\User\Desktop\C#\C-Testing\ReadTextFromFile\ReadTextFromFile\bin\Debug\net6.0\ReadTextFromFile.dll
+C:\Users\User\Desktop\C#\C-Testing\ReadTextFromFile\ReadTextFromFile\bin\Debug\net6.0\ReadTextFromFile.pdb
+C:\Users\User\Desktop\C#\C-Testing\ReadTextFromFile\ReadTextFromFile\obj\Debug\net6.0\ReadTextFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\C-Testing\ReadTextFromFile\ReadTextFromFile\obj\Debug\net6.0\ReadTextFromFile.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\C-Testing\ReadTextFromFile\ReadTextFromFile\obj\Debug\net6.0\ReadTextFromFile.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\C-Testing\ReadTextFromFile\ReadTextFromFile\obj\Debug\net6.0\ReadTextFromFile.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\C-Testing\ReadTextFromFile\ReadTextFromFile\obj\Debug\net6.0\ReadTextFromFile.dll
+C:\Users\User\Desktop\C#\C-Testing\ReadTextFromFile\ReadTextFromFile\obj\Debug\net6.0\refint\ReadTextFromFile.dll
+C:\Users\User\Desktop\C#\C-Testing\ReadTextFromFile\ReadTextFromFile\obj\Debug\net6.0\ReadTextFromFile.pdb
+C:\Users\User\Desktop\C#\C-Testing\ReadTextFromFile\ReadTextFromFile\obj\Debug\net6.0\ReadTextFromFile.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\C-Testing\ReadTextFromFile\ReadTextFromFile\obj\Debug\net6.0\ref\ReadTextFromFile.dll

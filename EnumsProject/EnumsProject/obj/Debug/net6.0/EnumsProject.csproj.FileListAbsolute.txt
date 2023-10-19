@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#\C-Testing\EnumsProject\EnumsProject\bin\Debug\net6.0\EnumsProject.exe
+C:\Users\User\Desktop\C#\C-Testing\EnumsProject\EnumsProject\bin\Debug\net6.0\EnumsProject.deps.json
+C:\Users\User\Desktop\C#\C-Testing\EnumsProject\EnumsProject\bin\Debug\net6.0\EnumsProject.runtimeconfig.json
+C:\Users\User\Desktop\C#\C-Testing\EnumsProject\EnumsProject\bin\Debug\net6.0\EnumsProject.dll
+C:\Users\User\Desktop\C#\C-Testing\EnumsProject\EnumsProject\bin\Debug\net6.0\EnumsProject.pdb
+C:\Users\User\Desktop\C#\C-Testing\EnumsProject\EnumsProject\obj\Debug\net6.0\EnumsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\C-Testing\EnumsProject\EnumsProject\obj\Debug\net6.0\EnumsProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\C-Testing\EnumsProject\EnumsProject\obj\Debug\net6.0\EnumsProject.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\C-Testing\EnumsProject\EnumsProject\obj\Debug\net6.0\EnumsProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\C-Testing\EnumsProject\EnumsProject\obj\Debug\net6.0\EnumsProject.dll
+C:\Users\User\Desktop\C#\C-Testing\EnumsProject\EnumsProject\obj\Debug\net6.0\refint\EnumsProject.dll
+C:\Users\User\Desktop\C#\C-Testing\EnumsProject\EnumsProject\obj\Debug\net6.0\EnumsProject.pdb
+C:\Users\User\Desktop\C#\C-Testing\EnumsProject\EnumsProject\obj\Debug\net6.0\EnumsProject.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\C-Testing\EnumsProject\EnumsProject\obj\Debug\net6.0\ref\EnumsProject.dll
