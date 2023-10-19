@@ -23,14 +23,14 @@ namespace IEnumerable
             };
         }
 
-        //public IEnumerator<Dog> GetEnumerator()
-        //{
-        //    return Dogs.GetEnumerator();
-        //}
+        public IEnumerator<Dog> GetEnumerator()
+        {
+            return Dogs.GetEnumerator();
+        }
 
-        //IEnumerator System.Collections.IEnumerable.GetEnumerator()
-        //{
-        //    throw new NotImplementedException();
-        //}
+        IEnumerator System.Collections.IEnumerable.GetEnumerator()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
